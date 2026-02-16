@@ -6,7 +6,7 @@ La aplicación está desplegada en la nube mediante Render y utiliza autenticaci
 
 ## 🌍 URL de Producción
 
-https://movie-list-bcknd-spring.onrender.com
+https://movie-list-bcknd-spring.onrender.com/health
 
 ## 🧱 Tecnologías Utilizadas
 
